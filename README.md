@@ -1,29 +1,26 @@
-# simple
+# Simple - 基础框架项目
 
-## Project setup
+整合的eslint编码规范基于airbnb
+
+## 项目初始化安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 开发
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### 构建生产环境
 ```
 yarn run build
 ```
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
+### 代码规范检测和自动格式化
 ```
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 自定义cli配置
+参考 [Configuration Reference](https://cli.vuejs.org/config/).
